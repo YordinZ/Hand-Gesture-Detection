@@ -38,7 +38,7 @@ function App() {
         </a>
 
         <a
-          href="https://yordinz.github.io/PORTFOLIO/#projects"
+          href="https://yordinz.github.io/PORTFOLIO/"
           target="_blank"
           className="flex items-center gap-2 px-8 py-3 
           bg-gray-800 border border-gray-700 
